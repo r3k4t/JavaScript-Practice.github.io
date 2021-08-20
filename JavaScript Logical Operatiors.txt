@@ -1,0 +1,17 @@
+JavaScript Logical Operators
+
+
+
+
+Operator	           Description	                Example                      result
+
+
+
+ &&                          	and                     (x < 10 && y > 1)             true
+ 
+ 
+ ||                             or                      (x == 5 || y == 5)           false
+
+
+ !                              not                      !(x == y)                    true
+    

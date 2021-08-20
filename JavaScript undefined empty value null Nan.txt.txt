@@ -1,0 +1,71 @@
+
+ JavaScript undefined,Empty value,null,NaN
+
+
+
+
+
+ undefined
+
+
+ var a;
+ a
+
+ a == undefinded
+
+ a === undefined
+
+
+
+ null
+
+ a = null;
+  
+ null == undefined
+
+ null === undefined
+
+
+ Empty value
+
+
+ var b = "";
+ b
+
+ b==a;
+
+ null == "";
+
+ undefined == " ";
+
+
+
+  NaN(Not a Number)
+
+
+ var c = "abc"/10;
+ c
+ 
+ NaN == null;
+
+ NaN == undefined;
+
+ NaN == "";
+ 
+
+ 
+
+
+
+
+
+
+
+
+
+ 
+
+ 
+
+  
+ 

@@ -1,0 +1,11 @@
+var student = {name:"Rahim", age:25, hometown:"Dhaka"}
+student.village ="Singair";
+student["name"]
+student.name
+
+
+student = {}
+student["name"] = "Rahim"
+
+
+delete simanta.name

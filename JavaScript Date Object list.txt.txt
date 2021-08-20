@@ -1,0 +1,14 @@
+
+JavaScript Date Objects
+
+
+
+Creating Date Objects
+Date objects are created with the new Date() constructor.
+
+There are 4 ways to create a new date object:
+
+new Date()
+new Date(year, month, day, hours, minutes, seconds, milliseconds)
+new Date(milliseconds)
+new Date(date string)

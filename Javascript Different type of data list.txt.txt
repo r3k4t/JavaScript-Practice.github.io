@@ -1,0 +1,24 @@
+ JavaScript Different type of data List
+
+
+ 1. Numbers  =  1,2,4.00  etc.
+
+
+ 2. Strings  =   "hello","40.00","1" etc.
+
+ 3. Booleans =  True or False.
+
+ 4. Arrays   =     []
+
+ 5. Objects  =     {}
+
+
+JavaScript More type of Date
+
+ 1.  underfined
+
+ 2.  Empty values
+
+ 3.  null
+
+ 4.  NaN
